@@ -1,0 +1,34 @@
+02/19/2020 11:28:22 Started GET /api/Contact/1 for localhost:5001 
+02/19/2020 11:28:22 Completed 404 /api/Contact/1 not found for /api/Contact/1 
+02/19/2020 11:28:28 Started GET /api/Contact for localhost:5001 
+02/19/2020 11:28:28 Completed 200 /api/Contact not found for /api/Contact 
+02/19/2020 11:28:34 Started POST /api/Contact for localhost:5001 
+02/19/2020 11:28:34 Completed 201 /api/Contact not found for /api/Contact 
+02/19/2020 11:28:46 Started POST /api/Contact for localhost:5001 
+02/19/2020 11:28:46 Completed 201 /api/Contact not found for /api/Contact 
+02/19/2020 11:28:48 Started POST /api/Contact for localhost:5001 
+02/19/2020 11:28:48 Completed 201 /api/Contact not found for /api/Contact 
+02/19/2020 11:28:48 Started POST /api/Contact for localhost:5001 
+02/19/2020 11:28:48 Completed 201 /api/Contact not found for /api/Contact 
+02/19/2020 11:28:49 Started POST /api/Contact for localhost:5001 
+02/19/2020 11:28:49 Completed 201 /api/Contact not found for /api/Contact 
+02/19/2020 11:28:56 Started GET /api/Contact/2 for localhost:5001 
+02/19/2020 11:28:56 Completed 200 /api/Contact/2 not found for /api/Contact/2 
+02/19/2020 11:29:01 Started GET /api/Contact/3 for localhost:5001 
+02/19/2020 11:29:01 Completed 200 /api/Contact/3 not found for /api/Contact/3 
+02/19/2020 11:29:05 Started GET /api/Contact/6 for localhost:5001 
+02/19/2020 11:29:05 Completed 404 /api/Contact/6 not found for /api/Contact/6 
+02/19/2020 11:29:18 Started GET /api/Contact/6 for localhost:5001 
+02/19/2020 11:29:18 Completed 404 /api/Contact/6 not found for /api/Contact/6 
+02/19/2020 11:29:24 Started GET /api/Contact/6 for localhost:5001 
+02/19/2020 11:29:24 Completed 404 /api/Contact/6 not found for /api/Contact/6 
+02/19/2020 11:29:24 Started GET /api/Contact/6 for localhost:5001 
+02/19/2020 11:29:24 Completed 404 /api/Contact/6 not found for /api/Contact/6 
+02/19/2020 11:29:42 Started GET /api/Contact for localhost:5001 
+02/19/2020 11:29:42 Completed 200 /api/Contact not found for /api/Contact 
+02/19/2020 11:30:02 Started GET /api/Contact/6 for localhost:5001 
+02/19/2020 11:30:02 Completed 404 /api/Contact/6 not found for /api/Contact/6 
+02/19/2020 11:30:03 Started GET /api/Contact/6 for localhost:5001 
+02/19/2020 11:30:03 Completed 404 /api/Contact/6 not found for /api/Contact/6 
+02/19/2020 11:30:04 Started GET /api/Contact/6 for localhost:5001 
+02/19/2020 11:30:04 Completed 404 /api/Contact/6 not found for /api/Contact/6 
